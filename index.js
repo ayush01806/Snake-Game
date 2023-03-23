@@ -1,3 +1,4 @@
+// THIS IS CHECK.
 let inputDir = {x:0, y:0};
 const foodSound = new Audio('food.wav');
 const moveSound = new Audio('move.wav');

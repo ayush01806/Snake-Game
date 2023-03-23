@@ -1,3 +1,7 @@
+// hdbendjg jbdkjbd jadiwjejgj 
+//jdeudne ednekndu jduhdlwmo ksduewhdwlwug
+//mwidhikmwug wudhwimddwloj knwuhl,wdihwim
+
 // THIS IS CHECK.
 let inputDir = {x:0, y:0};
 const foodSound = new Audio('food.wav');
